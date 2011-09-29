@@ -18,10 +18,10 @@ public class MariumAquarium extends JComponent implements Runnable
 	private static final long serialVersionUID = 410095910584114653L;
 	private static final String BACKGROUND_IMAGE = "images/background.gif";
 	private static final String FISH_IMAGES_FOLDER = "images/fish";
-	private static final String WINDOW_TITLE = "Marium Aquarium";
+	private static final String WINDOW_TITLE = "Trololol?";
 
 	private static final Dimension AQUARIUM_SIZE = new Dimension(800, 600);
-	private static final int DEFAULT_TOTAL_FISH = 25;
+	private static final int DEFAULT_TOTAL_FISH = 99;
 	private static final int SLEEP_TIME = 100;
 	private static final int INSET = 20;
 
